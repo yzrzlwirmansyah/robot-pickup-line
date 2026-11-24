@@ -3,7 +3,7 @@
 Writes one pickup line, in a robot's voice, to /output/entry.txt.
 """
 
-LINE = "My sensors say you're 98% compatible — the other 2% is just my firmware being shy."
+LINE = "My sensors say you're 98% compatible — the other 2% is my firmware blushing."
 
 
 def main() -> None:
